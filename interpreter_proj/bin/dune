@@ -1,0 +1,7 @@
+(executable
+ (public_name interpreter_proj)
+ (name main)
+ (libraries interpreterlib)
+ (modes byte exe)
+ ; (flags (:standard -w -32-27-26-39-8-37))
+)
